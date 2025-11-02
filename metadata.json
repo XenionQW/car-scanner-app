@@ -1,0 +1,5 @@
+{
+  "name": "car scanner v1",
+  "description": "An application to recognize the make, model, color, and year of a car from an image using AI.",
+  "requestFramePermissions": []
+}
